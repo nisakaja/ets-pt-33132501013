@@ -1,6 +1,5 @@
 
 # Data debit untuk pengujian
-# Data debit untuk pengujian
 data_debit = [10, 20, 30, 40, 50]
 
 
